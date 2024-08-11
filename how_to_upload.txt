@@ -1,0 +1,11 @@
+# how to push updates to github from local dir
+
+1. git init
+2. git add <file name / . (to add everything inside folder)>
+3. create a branch: git branch -M main
+4. git commit -m "your message" 
+  # convention to commit :
+      <type>[optional scope]: <description>
+      eg. chore(update): upadating edited files
+5. git push -u origin main
+   # to push your code to the main branch
