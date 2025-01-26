@@ -1,0 +1,16 @@
+dracula-gtk-theme
+dracula-icons-git
+gruvbox-icon-theme
+hyprshot
+nitch
+posy-improved-cursors
+qownnotes
+rofi-lbonn-wayland-git
+spicetify-cli
+spotify
+swaylock-effects
+ttf-maple-beta
+wlogout
+xcursor-chicago95-git
+yay-git
+yay-git-debug

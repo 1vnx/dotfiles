@@ -1,0 +1,5 @@
+pkill waybar && hyprctl dispatch exec waybar 
+# reload waybar
+
+hyprctl seterror disable
+# hide hyprland errors at top

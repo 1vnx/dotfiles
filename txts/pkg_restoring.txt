@@ -1,0 +1,1 @@
+pacman -S --needed < package_list.txt

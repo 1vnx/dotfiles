@@ -1,0 +1,5 @@
+1. ADD a wifi connection to "nm-connection-editor"
+2. scan wifi devices thru terminal
+	nmcli connection show
+3. connect to desired network
+	nmcli device wifi connect "SSID" password <pass>
