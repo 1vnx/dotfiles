@@ -1,0 +1,5 @@
+ you can actually move around tabs (buffers) in vim using <S-h> & <S-l>
+ apart from moving around using <space-tab> thing.
+ <S-h> & <S-l> helps move faster between tabs
+
+ - peace, daksh (march, 2025)
